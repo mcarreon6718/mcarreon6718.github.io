@@ -1,0 +1,18 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+html {
+    background-color: #ff99ff;
+}
+
+h1 {
+   
+    padding: 1%;
+    margin: 10%;
+    color: #794dff;
+    font-family: cursive;
+    font-weight: bolder;
+    font-style: italic;
+}
