@@ -4,9 +4,13 @@
 }
 
 html {
+    background-color: #f5f2da;
+}
+main {
+    width: 24%;
+    padding: 10%;
     background-color: #ff99ff;
 }
-
 h1 {
    
     padding: 1%;
